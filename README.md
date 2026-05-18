@@ -15,5 +15,6 @@ Technologies:
 Python | SQL | TensorFlow | Scikit-Learn | MATLAB | Git | Machine Learning | Data Visualization
 
 Connect with me:
-LinkedIn: [www.linkedin.com/in/eyram-tsike-032430193]
-Email: [tedtsike123@gmail.com](mailto:tedtsike123@gmail.com)
+* LinkedIn: [Ted Andrew Eyram Tsike](https://www.linkedin.com/in/eyram-tsike-032430193)
+* GitHub: [TedTsike](https://github.com/TedTsike)
+* Email: [tedtsike123@gmail.com](mailto:tedtsike123@gmail.com)
