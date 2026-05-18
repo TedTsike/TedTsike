@@ -1,10 +1,19 @@
-👋 Hey there! I’m Ted Tsike
-🚀 Passionate about Data Science, Machine Learning, and AI—especially their game-changing applications in engineering!
-📚 Currently diving deep into data science and machine learning, always eager to learn and explore new tech frontiers.
-🤝 Looking to collaborate on exciting data science research—let’s build something awesome together!
-📬 Reach me at tedtsike123@gmail.com—I’m always up for a great discussion.
-⚡ Fun fact: I once tried debugging my life decisions like I debug my code—turns out, “Have you tried turning it off and on again?” doesn’t work on existential crises. 😆💻
-<!---
-TedTsike/TedTsike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Ted Tsike — a Marine Engineer, MSc Data Science graduate, and MSc Mechanical Engineering student passionate about intelligent engineering systems, machine learning, and industrial AI applications.
+
+My work focuses on applying data science and artificial intelligence to engineering, maritime systems, logistics, predictive maintenance, and smart industrial operations.
+
+I enjoy building machine learning models, engineering analytics systems, and AI-driven solutions for real-world industrial and operational challenges.
+
+Current Interests:
+• Predictive Maintenance
+• Industrial AI
+• Intelligent Mobility Systems
+• Computer Vision
+• Smart Manufacturing & Logistics
+
+Technologies:
+Python | SQL | TensorFlow | Scikit-Learn | MATLAB | Git | Machine Learning | Data Visualization
+
+Connect with me:
+LinkedIn: [www.linkedin.com/in/eyram-tsike-032430193]
+Email: [tedtsike123@gmail.com](mailto:tedtsike123@gmail.com)
