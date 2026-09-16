@@ -1,4 +1,5 @@
-Hi, I’m Ted Tsike — a Marine Engineer, MSc Data Science graduate, and MSc Mechanical Engineering student passionate about intelligent engineering systems, machine learning, and industrial AI applications.
+Hi, I’m Ted Tsike, 
+Data Scientist and  Mechanical/Marine Engineer passionate about intelligent engineering systems, machine learning, and industrial AI applications.
 
 My work focuses on applying data science and artificial intelligence to engineering, maritime systems, logistics, predictive maintenance, and smart industrial operations.
 
